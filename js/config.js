@@ -14,8 +14,8 @@ seajs.config({
     },
 	// 路径配置
     paths: {
-      'sitePath': 'http://www.xhd.cn/app/topic/exams/js'
+      'sitePath': 'http://hwthsqq.github.io'
     },
 	// Sea.js 的基础路径
-  	base: 'http://www.xhd.cn/app/topic/exams/js'
+  	base: 'http://hwthsqq.github.io'
 });
